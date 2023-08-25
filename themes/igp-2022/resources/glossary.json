@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "tittle": "Acelerómetro",
+        "definition": "Instrumento que mide las aceleraciones producidas por un movimiento y que en sismología registra básicamente la oscilación del suelo al paso de las ondas sísmicas por el punto de observación. El acelerómetro, junto al registrador constituye la estación acelerométrica."
+    },
+    {
+        "id": 2,
+        "tittle": "Amplitud",
+        "definition": "Máxima amplitud de la cresta de una onda sísmica identificada en el sismograma o registro del sismo. En general, la amplitud de la señal está directamente asociada a la cantidad de energía que libera el sismo, lo cual permite estimar su magnitud."
+    },
+    {
+        "id": 3,
+        "tittle": "Corteza",
+        "definition": "Considera a la capa rocosa exterior y más delgada de la superficie de la tierra, cuyo espesor promedio es de 7 kilómetros bajo los océanos y de 70 kilómetros en el área continental, como es el caso de la raíz de la cordillera de los andes."
+    },
+    {
+        "id": 4,
+        "tittle": "Deriva Continental",
+        "definition": "Teoría expuesta por Alfred Wegener en 1912 para explicar el movimiento de los continentes en el tiempo a partir de una masa unificada de tierra. Wegener se basó en observaciones hechas en la geometría encajante de los continentes considerando su posición actual. Por ejemplo, el encaje entre el borde occidental de África y el borde oriental de sur América."
+    },
+    {
+        "id": 5,
+        "tittle": "Discontinuidad de Mohorovičić (el moho)",
+        "definition": "Define a la superficie de frontera que separa a la corteza del manto semilíquido en el interior de la tierra. Su existencia fue identificada a partir de la variación brusca de la velocidad sísmica por el sismólogo Andrija Mohorovičić, de origen croata."
+    },
+    {
+        "id": 6,
+        "tittle": "Distancia Epicentral",
+        "definition": "Define a la distancia existente entre un observador y el epicentro de un sismo, medida sobre la superficie de la tierra. Al momento de georreferenciar el epicentro de un sismo se toma como referencia la plaza de principal de la ciudad y/o localidad y su ubicación con respecto al norte geográfico."
+    },
+    {
+        "id": 7,
+        "tittle": "Distancia Hipócentral",
+        "definition": "Define a la distancia calculada entre el hipocentro sísmico (ubicación del foco y/o fuente sísmica) y un punto sobre la superficie de la tierra que puede considerar la plaza principal de la ciudad y/o localidad o la estación sísmica de registro."
+    },
+    {
+        "id": 8,
+        "tittle": "Epicentro",
+        "definition": "Se define como tal al punto exacto en la superficie que representa la proyección del hipocentro o foco sísmico."
+    },
+    {
+        "id": 9,
+        "tittle": "Escala Modificada de Mercalli",
+        "definition": "La escala de Mercalli modificada permite evaluar el grado de daño producido por un sismo en un determinado punto. Considera el nivel de percepción de las personas, efectos en estructuras y en la morfología. La escala consta de 12 valores expresados en números romanos que va desde los sismos que no son perceptibles hasta los que producen gran destrucción en ciudades y cambios importantes en la morfología del terreno."
+    },
+    {
+        "id": 10,
+        "tittle": "Escala de Magnitud",
+        "definition": "Representa a la escala que mide el total de la energía liberada en el foco sísmico y originalmente corresponde a la escala de Richter, propuesta por el autor en el año 1935. Es una escala logarítmica, lo que hace que los niveles asignados no tengan un comportamiento lineal y permiten medir sismos muy pequeños hasta los que alcanzarían valores en magnitud del orden de 6.5 Ml (llamada también escala de magnitud local, de ahí sus siglas “Ml”). En la actualidad la escala de magnitud más acertada y más utilizada es la escala de magnitud de momento (Mw) en razón que permite medir sin restricción sismos pequeños y grandes como el ocurrido en Japón en el año 2011."
+    },
+    {
+        "id": 11,
+        "tittle": "",
+        "definition": ""
+    },
+    {
+        "id": 12,
+        "tittle": "",
+        "definition": ""
+    },
+    {
+        "id": 13,
+        "tittle": "",
+        "definition": ""
+    },
+    {
+        "id": 14,
+        "tittle": "",
+        "definition": ""
+    },
+    {
+        "id": 15,
+        "tittle": "",
+        "definition": ""
+    },
+    {
+        "id": 16,
+        "tittle": "",
+        "definition": ""
+    },
+    {
+        "id": 17,
+        "tittle": "",
+        "definition": ""
+    },
+    {
+        "id": 18,
+        "tittle": "",
+        "definition": ""
+    },
+    {
+        "id": 19,
+        "tittle": "",
+        "definition": ""
+    },
+    {
+        "id": 20,
+        "tittle": "",
+        "definition": ""
+    },
+    {
+        "id": 21,
+        "tittle": "",
+        "definition": ""
+    }
+]

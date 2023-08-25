@@ -1,0 +1,11 @@
+--2021-12-14 13:28:57--  https://docs.google.com/spreadsheets/d/1TsYkz1oD11WKVTGyd6lpjUUy0GglptbZ/edit?usp=sharing
+Resolviendo docs.google.com (docs.google.com)... 142.251.0.100, 142.251.0.101, 142.251.0.139, ...
+Conectando con docs.google.com (docs.google.com)[142.251.0.100]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: no especificado [text/html]
+Grabando a: «edit?usp=sharing»
+
+edit?usp=sharing                                 [<=>                                                                                         ]       0  --.-KB/s               edit?usp=sharing                                 [ <=>                                                                                        ] 386,13K  1,66MB/s               edit?usp=sharing                                 [  <=>                                                                                       ] 392,72K  1,68MB/s    en 0,2s    
+
+2021-12-14 13:28:58 (1,68 MB/s) - «edit?usp=sharing» guardado [402150]
+

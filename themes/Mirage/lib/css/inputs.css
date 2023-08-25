@@ -1,0 +1,40 @@
+input[type="text"],
+input[name="email"],
+input[name="login_email"],
+input[name="login_password"],
+input[name="password"],
+input[name="password_confirm"],
+input[name="query"],
+select{
+  display: block;
+  height: 34px !important;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+  -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+  -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+  /* margin-bottom: 10px;  */
+}
+input[name="email"], 
+input[name="starts_with"],
+input[class*="discovery-filter-input"],
+input[name="query"],
+input[name="identifier"],
+input[name="newElement"],
+input[name="newQualifier"],
+select{
+  display: inline-block;
+}
+
+input[name="login_email"],
+input[name="login_password"]{
+  margin-bottom: 10px;
+}

@@ -1,0 +1,14 @@
+#aspect_discovery_SimpleSearch_list_primary-search ol{
+	display: grid;
+	grid-template-columns: 5fr 3fr 40px;
+	grid-gap: 0 5px;	
+}
+@media screen and (max-width: 320px){
+    #aspect_discovery_SimpleSearch_list_primary-search ol{
+        grid-template-columns: 1fr 1fr 40px;
+    }
+}
+
+
+
+

@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8"?>
+<autores>
+	<autor nombre="Advíncula Zeballos, Orlando" />
+	<autor nombre="Agüero, Consuelo" />
+	<autor nombre="Aguilar, Victor">
+		<alias>Aguilar, V.</alias>
+		<alias>Aguilar, Victor</alias>
+		<alias>Aguilar, Víctor</alias>
+		<alias>Aguílar, Víctor</alias>
+	</autor>
+	<autor nombre="Ali Murillo, Armando" />
+	<autor nombre="Ali, L." />
+	<autor nombre="Alvarado, W." />
+	<autor nombre="Álvarez Tolentino, Daniel" />
+	<autor nombre="Álvarez, Yovana" />
+	<autor nombre="Ampuero Grández, Angela" />
+	<autor nombre="Anca, J." />
+	<autor nombre="Anccasi Figueroa, Rosa María">
+		<alias>Ancassi Figueroa, Rosa María</alias>
+		<alias>Ancassi, Rosa</alias>
+		<alias>Anccasi, Rosa</alias>
+	</autor>
+	<autor nombre="Anicama Díaz, Jahir" />
+	<autor nombre="Antayhua Vera, Yanet Teresa">
+		<alias>Antayhua Vera, Yanet Teresa</alias>
+		<alias>Antayhua, Y.</alias>
+		<alias>Antayhua, Yanet</alias>
+	</autor>
+	<autor nombre="Añazco Condori, Martha">
+		<alias>Añazco Condori, Martha</alias>
+		<alias>Añazco, Martha</alias>
+	</autor>
+	<autor nombre="Apaéstegui Campos, James Emiliano">
+		<alias>Apaéstegui Campos, James Emiliano</alias>
+		<alias>Apaéstegui, J.</alias>
+		<alias>Apaéstegui, James</alias>
+	</autor>
+	<autor nombre="Aparco Lara, Jonathan">
+		<alias>Aparco Lara, Jonathan</alias>
+		<alias>Aparco, Jonathan</alias>
+	</autor>
+	<autor nombre="Armijos Cardenas, Elisa Natalia">
+		<alias>Armijos Cardenas, Elisa</alias>
+		<alias>Armijos, Elisa</alias>
+	</autor>
+	<autor nombre="Arredondo García, Luz Mercedes">
+		<alias>Arredondo García, Luz Mercedes</alias>
+		<alias>Arredondo, Luz</alias>
+	</autor>
+	<autor nombre="Arroyo Aliaga, Jacinto">
+		<alias>Arroyo Aliaga, Jacinto</alias>
+		<alias>Arroyo, Jacinto</alias>
+	</autor>
+	<autor nombre="Arteaga, Jaime" />
+	<autor nombre="Audin, Laurence">
+		<alias>Audin, L.</alias>
+		<alias>Audin, Laurence</alias>
+	</autor>
+	<autor nombre="Azabache Cobeña, José Manuel" />
+	<autor nombre="Baella, Nobar">
+		<alias>Baella, N. O.</alias>
+		<alias>Baella, Nobar</alias>
+	</autor>
+	<autor nombre="Bejarano Pinto, Lisbeth Eliana" />
+	<autor nombre="Bernal Esquia, Yesenia Isabel">
+		<alias>Bernal Esquia, Isabel</alias>
+		<alias>Bernal Esquia, Yesenia Isabel</alias>
+		<alias>Bernal, I.</alias>
+		<alias>Bernal, Isabel</alias>
+	</autor>
+	<autor nombre="Bondoux, Francis">
+		<alias>Bondoux, F.</alias>
+		<alias>Bondoux, Francis</alias>
+	</autor>
+	<autor nombre="Bustamante Huamán, Yonatan Anibal" />
+	<autor nombre="Bustamante Valencia, Marcos Renzo" />
+	<autor nombre="Cabezas, Denis P." />
+	<autor nombre="Cahuari Begazo, Angélica Ysabel">
+		<alias>Cahuari Begazo, Angélica Ysabel</alias>
+		<alias>Cahuari, Angélica</alias>
+	</autor>
+	<autor nombre="Callañaupa Gutierrez, Stephany Magaly" />
+	<autor nombre="Campos, Fernando" />
+	<autor nombre="Campoverde Oropeza, José María" />
+	<autor nombre="Carpio, Julia" />
+	<autor nombre="Carrillo Elizalde, Roberth Paúl" />
+	<autor nombre="Castillo, Cristiam">
+		<alias>Castillo, Cristiam</alias>
+		<alias>Castillo, Cristiam.</alias>
+	</autor>
+	<autor nombre="Castro Mendoza, Rubén" />
+	<autor nombre="Ccallo Huaquisto, Freddy Javier">
+		<alias>Ccallo Huaquisto, Freddy</alias>
+		<alias>Ccallo Huaquisto, Freddy Javier</alias>
+		<alias>Cccallo, Freddy</alias>
+	</autor>
+	<autor nombre="Centeno Moncada, Estela Juana" />
+	<autor nombre="Centeno Quico, Riky">
+		<alias>Centeno Quico, Riky</alias>
+		<alias>Centeno, Ricky</alias>
+		<alias>Centeno, Riky</alias>
+	</autor>
+	<autor nombre="Céspedes Reyes, Luis">
+		<alias>Céspedes, Luis</alias>
+	</autor>
+	<autor nombre="Chahua Janampa, Jhon Elvis">
+		<alias>Chahua Janampa, Jhon Elvis</alias>
+		<alias>Chahua, Jhon</alias>
+	</autor>
+	<autor nombre="Chang Huayanca, Antonio José" />
+	<autor nombre="Charapaqui, Saúl">
+		<alias>Charapaqui, Saul</alias>
+		<alias>Charapaqui, Saúl</alias>
+	</autor>
+	<autor nombre="Chávez Jara, Steven Paul">
+		<alias>Chávez, Steven</alias>
+		<alias>Chavez, Steven P.</alias>
+	</autor>
+	<autor nombre="Chávez, Raúl">
+		<alias>Chavez, R.</alias>
+	</autor>
+	<autor nombre="Chijcheapaza, Rolando">
+		<alias>Chijcheapaza, R.</alias>
+		<alias>Chijcheapaza, Rolando</alias>
+	</autor>
+	<autor nombre="Chire Chira, J.">
+		<alias>Chire-Chira, J.</alias>
+	</autor>
+	<autor nombre="Chiroque Herrera, Cristhian Anderson">
+		<alias>Chiroque, Cristhian</alias>
+	</autor>
+	<autor nombre="Chlieh, Mohamed">
+		<alias>Chlie, M.</alias>
+		<alias>Chlieh, M.</alias>
+	</autor>
+	<autor nombre="Choque, Edwin" />
+	<autor nombre="Concha Calle, Jorge Andrés">
+		<alias>Concha, Jorge</alias>
+	</autor>
+	<autor nombre="Condori Quispe, Cristobal">
+		<alias>Condori, Cristobal</alias>
+		<alias>Condori, Cristóbal</alias>
+	</autor>
+	<autor nombre="Cruz Igme, John Edward">
+		<alias>Cruz Idme, John</alias>
+		<alias>Cruz, John</alias>
+	</autor>
+	<autor nombre="Cruz, Nicolas" />
+	<autor nombre="Cruz, Vicentina">
+		<alias>Cruz, V.</alias>
+	</autor>
+	<autor nombre="Cutipa Vargas, Graciano Elard">
+		<alias>Cutipa, Elard</alias>
+	</autor>
+	<autor nombre="Cuya Crispin, Ángel Ademir">
+		<alias>Cuya, Ademir</alias>
+	</autor>
+	<autor nombre="De la Jara, César">
+		<alias>De La Jara, Cesar</alias>
+		<alias>De la Jara, C.</alias>
+	</autor>
+	<autor nombre="Del Carpio Calienes, José Alberto">
+		<alias>Del Carpio Calienes, José</alias>
+		<alias>Del Carpio, J.</alias>
+		<alias>Del Carpio, Jose</alias>
+		<alias>Del Carpio, José</alias>
+		<alias>Del Carpio, José Alberto</alias>
+		<alias>Del Carpio, José Luis</alias>
+	</autor>
+	<autor nombre="Del Castillo Velarde, Carlos" />
+	<autor nombre="Delgado, María" />
+	<autor nombre="Dewitte, Boris">
+		<alias>Dewitte, B.</alias>
+	</autor>
+	<autor nombre="Dueñas Galdós, Rubén Dario" />
+	<autor nombre="Enciso Condorcuya, Lidia">
+		<alias>Enciso, Lidia</alias>
+	</autor>
+	<autor nombre="Enciso, Carlos" />
+	<autor nombre="Espinoza Villar, Raúl Arnaldo">
+		<alias>Espinoza-Villar, Raul</alias>
+		<alias>Raúl Espinoza, Villar</alias>
+		<alias>Villar, Raúl</alias>
+	</autor>
+	<autor nombre="Espinoza, Jhan Carlo">
+		<alias>Espinoza, J.</alias>
+		<alias>Espinoza, J. C.</alias>
+		<alias>Espinoza, J. C.</alias>
+		<alias>Espinoza, J. C. V.</alias>
+		<alias>Espinoza, Jhan Carlo</alias>
+		<alias>Espinoza, Jhan-Carlo</alias>
+		<alias>Espinoza Villar, Jhan-Carlo</alias>
+	</autor>
+	<autor nombre="Estevan, René" />
+	<autor nombre="Fajardo Urbina, Jeancarlo Manuel">
+		<alias>Fajardo, Jeancarlo</alias>
+	</autor>
+	<autor nombre="Feijoó Fox, Eduard Alder" />
+	<autor nombre="Fernández, Efraín">
+		<alias>Fernández, Efrain</alias>
+	</autor>
+	<autor nombre="Florentino, André">
+		<alias>Florentino, Andre</alias>
+		<alias>Florentino, André.</alias>
+	</autor>
+	<autor nombre="Flores Guerra, Edden Christian" />
+	<autor nombre="Flores Rojas, José Luis">
+		<alias>Flores, José L.</alias>
+	</autor>
+	<autor nombre="Flores, Andrés" />
+	<autor nombre="Flores, Antonio" />
+	<autor nombre="Flores, Daniel" />
+	<autor nombre="Galdos Segura, Andreé William">
+		<alias>Galdós, Andreé</alias>
+		<alias>Galdós, André</alias>
+		<alias>Galdós, Andrés</alias>
+	</autor>
+	<autor nombre="García Rosales, Alan Jesús" />
+	<autor nombre="Gilt, Huber" />
+	<autor nombre="Giráldez, Lucy" />
+	<autor nombre="Gómez Avalos, Juan Carlos">
+		<alias>Gómez, Juan Carlos</alias>
+	</autor>
+	<autor nombre="Gómez, Andrés" />
+	<autor nombre="Gonzales Zenteno, Hermogenes Edgard">
+		<alias>Gonzales Zenteno, Edgar</alias>
+	</autor>
+	<autor nombre="Gonzales Zuñiga, Katherine">
+		<alias>Gonzales Zuñiga, K.</alias>
+		<alias>Gonzales, Katherine</alias>
+	</autor>
+	<autor nombre="Goubanova, Katerina">
+		<alias>Goubanova, K.</alias>
+		<alias>Goubanova, Katherine</alias>
+	</autor>
+	<autor nombre="Goyburo Peña, Andres" />
+	<autor nombre="Guardia Anampa, Patricia Alejandra">
+		<alias>Guardia, Patricia</alias>
+	</autor>
+	<autor nombre="Gutierrez Cori, Omar">
+		<alias>Gutierrez-Cori, Omar</alias>
+	</autor>
+	<autor nombre="Guzmán Mendivil, José Luis" />
+	<autor nombre="Heras Muchica, Hernán Lucas">
+		<alias>Heras, Hernán</alias>
+	</autor>
+	<autor nombre="Herrera Puma, Dina Bilha">
+		<alias>Herrera, Bilha</alias>
+	</autor>
+	<autor nombre="Huaco, Daniel" />
+	<autor nombre="Huamán Chuquihuaccha, Lidia" />
+	<autor nombre="Huamán Rodrigo, David">
+		<alias>Huamán-Rodrigo, D.</alias>
+		<alias>Huamán-Rodrigo, David</alias>
+	</autor>
+	<autor nombre="Huaman Yampul, Jorge">
+		<alias>Huaman, J</alias>
+	</autor>
+	<autor nombre="Huaman, Darwin " />
+	<autor nombre="Huamán, María" />
+	<autor nombre="Huancco, Orlando" />
+	<autor nombre="Illig, Serena">
+		<alias>Illig, S.</alias>
+		<alias>Illig, Selena</alias>
+		<alias>Illig, Séréna</alias>
+	</autor>
+	<autor nombre="Ingunza, Augusto" />
+	<autor nombre="Inza Callupe, Lamberto Adolfo">
+		<alias>Inza, A.</alias>
+		<alias>Inza, Adolfo</alias>
+		<alias>Inza, L. A.</alias>
+	</autor>
+	<autor nombre="Ishitsuka, José K.">
+		<alias>Ishitsuka, J.</alias>
+		<alias>Ishitsuka, José</alias>
+		<alias>Ishitsuka, José K.</alias>
+	</autor>
+	<autor nombre="Ishitsuka, Mutsumi" />
+	<autor nombre="Jauregui, Yakeliyn R." />
+	<autor nombre="Jimenez, César">
+		<alias>Jimenez, C.</alias>
+	</autor>
+	<autor nombre="Junquas, Clémentine">
+		<alias>Junquas, C.</alias>
+	</autor>
+	<autor nombre="Kumar, Shailendra"></autor>
+	<autor nombre="Lagos Enríquez, Pablo">
+		<alias>Lagos Enriquez, Pablo</alias>
+		<alias>Lagos, P.</alias>
+		<alias>Lagos, Pablo</alias>
+	</autor>
+	<autor nombre="Latínez Sotomayor, Karen Alexandra">
+		<alias>Latinez Sotomayor, Karen A.</alias>
+	</autor>
+	<autor nombre="Lavado, Hector">
+		<alias>Lavado, Héctor</alias>
+	</autor>
+	<autor nombre="León Altuna, Karen Beatriz">
+		<alias>León, Karen</alias>
+	</autor>
+	<autor nombre="Leucci, Cristiana" />
+	<autor nombre="Limachi, Nancy" />
+	<autor nombre="Macedo Franco, Luisa Diomira">
+		<alias>Macedo, L.</alias>
+		<alias>Macedo Franco, Luisa, Diomira</alias>
+	</autor>
+	<autor nombre="Macedo Sánchez, Orlando Efraín">
+		<alias>Macedo Sánchez, Orlando</alias>
+		<alias>Macedo, O.</alias>
+		<alias>Macedo, Orlando</alias>
+	</autor>
+	<autor nombre="Machacca, Roger ">
+		<alias>Machaca, Roger</alias>
+	</autor>
+	<autor nombre="Machuca Breña, Ricardo Oswaldo" />
+	<autor nombre="Malpartida, Alan" />
+	<autor nombre="Mamani Gonzales, Dalma Mercedes" />
+	<autor nombre="Mamani Marca, Gumercindo Wilson" />
+	<autor nombre="Manrique, María" />
+	<autor nombre="Marín, Gloria" />
+	<autor nombre="Mariño Salazar, Jersy">
+		<alias>Mariño, J.</alias>
+	</autor>
+	<autor nombre="Martínez Castro, Daniel">
+		<alias>Martínez, Daniel</alias>
+		<alias>Martínez-Castro, D.</alias>
+		<alias>Martínez-Castro, Daniel</alias>
+	</autor>
+	<autor nombre="Martínez Grimaldo, Alejandra">
+		<alias>Martínez Grimaldo, Alejandra G.</alias>
+		<alias>Martinez Grimaldo, Alejandra</alias>
+		<alias>Martínez, Alejandra</alias>
+		<alias>Martínez, A. G.</alias>
+	</autor>
+	<autor nombre="Martínez Herrera, Julio César">
+		<alias>Martínez, Julio</alias>
+	</autor>
+	<autor nombre="Medina B., Melissa">
+		<alias>Medina, Melissa</alias>
+	</autor>
+	<autor nombre="Medina Samanez, Cristopher Jesús" />
+	<autor nombre="Milla, Marco">
+		<alias>Milla, M.</alias>
+		<alias>Milla, M. A.</alias>
+		<alias>Milla, Marco A.</alias>
+		<alias>Milla, Marco.</alias>
+	</autor>
+	<autor nombre="Millones, José" />
+	<autor nombre="Molina, Javier" />
+	<autor nombre="Mollo, Mary" />
+	<autor nombre="Moncca Anculle, Geremías">
+		<alias>Moncca, Geremias</alias>
+	</autor>
+	<autor nombre="Montes Torres, Ivonne">
+		<alias>Montes Torres, Yvonne</alias>
+		<alias>Montes, Ivonne</alias>
+		<alias>Montes, Yvonne</alias>
+		<alias>Montes, Yvonne </alias>
+	</autor>
+	<autor nombre="Montesinos, Víctor" />
+	<autor nombre="Moquet, Jean Sébastien">
+		<alias>Moquet, J. S.</alias>
+		<alias>Moquet, Jean-Sebastien</alias>
+		<alias>Moquet, Jean-Sébastien</alias>
+	</autor>
+	<autor nombre="Moreno, Marco" />
+	<autor nombre="Morera Julca, Sergio Byron">
+		<alias>Morera, S. B.</alias>
+		<alias>Morera, Sergio</alias>
+		<alias>Morera, Sergio B.</alias>
+		<alias>Morera-Julca, Sergio</alias>
+	</autor>
+	<autor nombre="Morón, Katherine" />
+	<autor nombre="Mosquera Vásquez, Kobi Alberto">
+		<alias>Mosquera Vásquez, Koby</alias>
+		<alias>Mosquera Vásquez, Koby Alberto</alias>
+		<alias>Mosquera, K.</alias>
+		<alias>Mosquera, Kobi</alias>
+		<alias>Mosquera, Koby</alias>
+		<alias>Mosquera-Vásquez, K.</alias>
+		<alias>Mosquera-Vásquez, Kobi</alias>
+		<alias>Mosquera‐Vásquez, K.</alias>
+	</autor>
+	<autor nombre="Moya Álvarez, Aldo Saturnino">
+		<alias>Moya, Aldo S.</alias>
+		<alias>Moya-Álvarez, Aldo S.</alias>
+	</autor>
+	<autor nombre="Nina Figueroa, Vilma" />
+	<autor nombre="Norabuena Ortiz, Edmundo">
+		<alias>Norabuena, E.</alias>
+		<alias>Norabuena, Edmundo</alias>
+		<alias>Norabuena, Edmundo O.</alias>
+	</autor>
+	<autor nombre="Ochoa Zamalloa, Ángel Jair">
+		<alias>Ochoa, Angel</alias>
+	</autor>
+	<autor nombre="Ocola, Leonidas">
+		<alias>Ocola Aquise, Leonidas</alias>
+		<alias>Ocola, Leonidas</alias>
+	</autor>
+	<autor nombre="Ordóñez Piscoya, Jorge Armando">
+		<alias>Ordóñez, Jorge</alias>
+	</autor>
+	<autor nombre="Orihuela Pinto, Luis Bryam">
+		<alias>Orihuela, Bryam</alias>
+	</autor>
+	<autor nombre="Ortiz Vásquez, Rubén Omar" />
+	<autor nombre="Ortiz, Segundo" />
+	<autor nombre="Oscanoa, Julio" />
+	<autor nombre="Oyola, Javier" />
+	<autor nombre="Paccini Peña, Laura Giulianna" />
+	<autor nombre="Pacheco, Edgardo E.">
+		<alias>Pacheco, E.</alias>
+		<alias>Pacheco, Edgar</alias>
+		<alias>Pacheco, Edgardo</alias>
+	</autor>
+	<autor nombre="Pareja, David" />
+	<autor nombre="Pari Rendon, Kelly Amanda" />
+	<autor nombre="Parillo, Rocio" />
+	<autor nombre="Parra Paitán, Claudia Carolina" />
+	<autor nombre="Pereira, C.B." />
+	<autor nombre="Pereyra, Antonio">
+		<alias>Pereyra, A.</alias>
+	</autor>
+	<autor nombre="Pérez Alvarado, Susan" />
+	<autor nombre="Pérez Pacheco, Ivonne">
+		<alias>Pérez-Pacheco, Ivonne</alias>
+	</autor>
+	<autor nombre="Pérez Segovia, Alexander">
+		<alias>Pérez, Alexander</alias>
+	</autor>
+	<autor nombre="Perfettini, Hugo">
+		<alias>Perfettini, H.</alias>
+	</autor>
+	<autor nombre="Pinto Chávez, Gisela Katherine" />
+	<autor nombre="Portugal, David" />
+	<autor nombre="Prado Mendoza, María Roxana" />
+	<autor nombre="Prieto, Eva" />
+	<autor nombre="Príncipe Aguirre, Romel Erick">
+		<alias>Príncipe, Erick</alias>
+	</autor>
+	<autor nombre="Puma Sacsi, Nino">
+		<alias>Puma, N.</alias>
+		<alias>Puma, Nino</alias>
+	</autor>
+	<autor nombre="Quijano Vargas, Julio Jesús" />
+	<autor nombre="Quincho Olazábal, Janet Brígida" />
+	<autor nombre="Quispe, Rodrigo" />
+	<autor nombre="Ramírez Chávez, Diego Renzo" />
+	<autor nombre="Ramos Chura, Sonia Estephanie" />
+	<autor nombre="Ramos Jauregui, Lucero Yakelyn">
+		<alias>Ramos, Yakelyn</alias>
+	</autor>
+	<autor nombre="Ramos Palomino, Domingo A.">
+		<alias>Ramos, D.</alias>
+		<alias>Ramos, Domingo</alias>
+	</autor>
+	<autor nombre="Reupo Vélez, Jorge Antonio">
+		<alias>Reupo, Jorge</alias>
+	</autor>
+	<autor nombre="Rivera, Gerardo" />
+	<autor nombre="Rivera, Marco">
+		<alias>Rivera, Marcos</alias>
+	</autor>
+	<autor nombre="Rodríguez, Leandro">
+		<alias>Rodríguez V., Leandro</alias>
+	</autor>
+	<autor nombre="Rodríguez, Simeón" />
+	<autor nombre="Rojas Villalba, Enrique Luis Alfonso" />
+	<autor nombre="Rosales Corilloclla, Domingo">
+		<alias>Rosales, D.</alias>
+		<alias>Rosales, Domingo</alias>
+	</autor>
+	<autor nombre="Saavedra Huanca, Miguel">
+		<alias>Saavedra, M.</alias>
+		<alias>Saavedra, Miguel</alias>
+	</autor>
+	<autor nombre="Salas, Henry" />
+	<autor nombre="Sánchez Ccoyllo, Odón R.">
+		<alias>Sánchez-Ccoyllo, Odón R.</alias>
+	</autor>
+	<autor nombre="Sánchez, B." />
+	<autor nombre="Santillán, Oscar" />
+	<autor nombre="Santos Chaparro, Luis">
+		<alias>Santos, Luis</alias>
+	</autor>
+	<autor nombre="Scipión, Danny ">
+		<alias>Scipion, D. L.</alias>
+		<alias>Scipion, Danny</alias>
+		<alias>Scipión, D.</alias>
+		<alias>Scipión, D. E.</alias>
+		<alias>Scipión, Danny E.</alias>
+		<alias>Scipión, Danny.</alias>
+	</autor>
+	<autor nombre="Segura Cajachagua, Hans Mikhail" />
+	<autor nombre="Segura Curi, Berlín Aveles">
+		<alias>Segura, B.</alias>
+		<alias>Segura, Berlin</alias>
+		<alias>Segura, Berlín</alias>
+	</autor>
+	<autor nombre="Silva Vidal, Yamina">
+		<alias>Silva, Y.</alias>
+		<alias>Silva, Yamina</alias>
+		<alias>Silva,Yamina</alias>
+		<alias>Silva-Vidal, Y.</alias>
+	</autor>
+	<autor nombre="Soles Valdivia, Ana María" />
+	<autor nombre="Suárez Salas, Luis">
+		<alias>Suarez-Salas, Luis</alias>
+	</autor>
+	<autor nombre="Sulca Jota, Juan Carlos">
+		<alias>Sulca, Juan</alias>
+	</autor>
+	<autor nombre="Sulla Huillca, Wilfredo">
+		<alias>Sulla, Wilfredo</alias>
+	</autor>
+	<autor nombre="Suni, Jaime" />
+	<autor nombre="Taipe, Edu">
+		<alias>Taipe, E.</alias>
+	</autor>
+	<autor nombre="Takahashi, Ken">
+		<alias>Takahashi Guevara, Ken</alias>
+		<alias>Takahashi, K.</alias>
+	</autor>
+	<autor nombre="Tavera Huarache, Hernando">
+		<alias>Tavera, H.</alias>
+		<alias>Tavera, Hernando</alias>
+		<alias>Tavera, Hernando J.</alias>
+	</autor>
+	<autor nombre="Thual, Sullian" />
+	<autor nombre="Ticse De la Torre, Katerine Elsy" />
+	<autor nombre="Torres Velarde, Liliana Rosario">
+		<alias>Torres, Liliana</alias>
+	</autor>
+	<autor nombre="Torres, José Luis">
+		<alias>Torres Aguilar, José</alias>
+		<alias>Torres, José</alias>
+		<alias>Torres, José Luis</alias>
+	</autor>
+	<autor nombre="Trasmonte Soto, Grace Liliam">
+		<alias>Trasmonte Soto, Grace</alias>
+		<alias>Trasmonte, G.</alias>
+		<alias>Trasmonte, Grace</alias>
+	</autor>
+	<autor nombre="Valdivia Polanco, Igor Alberto">
+		<alias>Valdivia, Igor</alias>
+	</autor>
+	<autor nombre="Valdivia Prado, Jairo Michael" />
+	<autor nombre="Vargas Alva, Katherine Andrea">
+		<alias>Vargas Alva, Katherine</alias>
+		<alias>Vargas, K.</alias>
+	</autor>
+	<autor nombre="Velarde Quispe, Lizbeth">
+		<alias>Velarde, L.</alias>
+		<alias>Velarde, Lizbeth</alias>
+	</autor>
+	<autor nombre="Veliz, Oscar">
+		<alias>Veliz C., O.</alias>
+		<alias>Veliz, O.</alias>
+		<alias>Veliz, O. E.</alias>
+		<alias>Veliz, Oscar</alias>
+	</autor>
+	<autor nombre="Vidal Safor, Erick">
+		<alias>Vidal, E.</alias>
+	</autor>
+	<autor nombre="Vila Mamani, Katia Veronica" />
+	<autor nombre="Vilca, Javier">
+		<alias>Vilca, J.</alias>
+	</autor>
+	<autor nombre="Vilca, Renzo" />
+	<autor nombre="Vilcapoma, Luis">
+		<alias>Vilcapoma, L.</alias>
+	</autor>
+	<autor nombre="Villafani, Rubén" />
+	<autor nombre="Villalobos Puma, Elver Edmundo">
+		<alias>Villalobos, Elver</alias>
+	</autor>
+	<autor nombre="Villaverde Calderón, María" />
+	<autor nombre="Villaverde Calderón, Marita" />
+	<autor nombre="Villegas Lanza, Juan Carlos">
+		<alias>Villegas Lanza, J. C.</alias>
+		<alias>Villegas, Juan Carlos</alias>
+		<alias>Villegas-Lanza, J.</alias>
+		<alias>Villegas-Lanza, J. -C.</alias>
+		<alias>Villegas-Lanza, J. C.</alias>
+		<alias>Villegas‐Lanza, J. C.</alias>
+	</autor>
+	<autor nombre="Vivanco López, Socorro del Pilar" />
+	<autor nombre="Vizcarra Zúñiga, Miriam Eliana" />
+	<autor nombre="Woodman Pollitt, Ronald Francisco">
+		<alias>Woodman P., Ronald</alias>
+		<alias>Woodman P., Ronald F.</alias>
+		<alias>Woodman Pollitt, Ronald</alias>
+		<alias>Woodman, D.</alias>
+		<alias>Woodman, R</alias>
+		<alias>Woodman, R.</alias>
+		<alias>Woodman, R. F</alias>
+		<alias>Woodman, R. F.</alias>
+		<alias>Woodman, R.F</alias>
+		<alias>Woodman, R.F.</alias>
+		<alias>Woodman, Ronald</alias>
+		<alias>Woodman, Ronald F.</alias>
+	</autor>
+	<autor nombre="Yauri Condo, Sheila Alodia">
+		<alias>Yauri Condo, S.</alias>
+		<alias>Yauri, Sheila</alias>
+	</autor>
+	<autor nombre="Zamudio, Yolanda" />
+	<autor nombre="Zubieta Barragán, Ricardo">
+		<alias>Zubieta, R.</alias>
+		<alias>Zubieta, Ricardo</alias>
+	</autor>
+</autores>

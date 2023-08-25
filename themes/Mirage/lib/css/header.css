@@ -1,0 +1,173 @@
+/**/
+/*
+#ds-tito-web{
+    font-weight: bold;
+    text-align: center;
+    background-color: #2068A0;
+    color: white;
+}*/
+#ds-header span{
+  font-size: 14px;
+}
+a{
+    text-decoration: none;
+}
+#ds-header ul{
+    margin: 0px;
+}
+
+h1.ds-div-head {
+    /* margin-top: 0px; */
+}
+#ds-header .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+/**/
+#ds-header .container>* {
+  display: flex;
+  align-items: center;
+}
+
+#ds-header .container *:last-child{
+  justify-content: flex-end;
+}
+
+.logo-peru-primero{
+  height: 40px;
+  display: inline-block;
+}    
+
+
+.btn-image{
+  background-color: transparent;
+  background-image: none;
+  border: none;
+  box-shadow: none;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  padding-left: 8px;
+  padding-right: 6px;
+}
+
+.btn-image:hover, .btn-image:focus{
+  color: #333333;
+  text-decoration: none;
+  background-color: transparent;
+  transition: none;
+}
+
+.btn.focus, .btn:focus, .btn:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+.btn.focus, .btn:focus, .btn:hover {
+  color: #fff;
+  text-decoration: none;
+} 
+
+.logo-igp{
+    margin: 0 10px;
+}
+
+/* ---------- IBAG CODE -------- */
+
+.nav-sec {    
+    background-color: #38B5E6; /* For browsers that do not support gradients */
+    background-image: linear-gradient(-45deg, #0071B8 50%, #38B5E6 50%); /* Standard syntax (must be last) */
+    /*margin-top: -10px;*/
+}
+.nav-sec{
+    padding: 5px 0px;
+}
+.nav-sec span{ /* redes sociales / contacto */
+    color: white;
+}
+.nav-social a {    
+    float: left;
+    text-align: center;
+    line-height: 23px;
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    border: 1px solid white;    
+    margin-right: 10px;
+}
+.nav-social a:hover{
+    background-color: RGB(0,0,0,0.3);
+}
+.nav-sec .nav-contacto {
+    margin-top: 2px !important;
+    float: right;
+}
+.nav-sec .nav-contacto>li{
+    display: inline;  
+}
+.nav-sec .nav-contacto>li:last-of-type{
+    padding-left: 10px;
+    border-left: 1px solid white;
+}
+.nav-sec .nav-contacto a, .nav-sec .nav-contacto li>span{
+    padding: 5px 10px;    
+}
+.nav-sec .nav-contacto a{
+    border-radius: 50px;
+}
+.nav-sec .nav-contacto a:hover{
+    background-color: RGB(0,0,0,0.3);
+}
+.nav-main{
+   padding: 20px 0px;
+}
+
+.nav-main-li li{
+    display: inline;
+}
+
+.nav-main-li span { /* Texto de los Botones: Inicio / Nosotros / Contactenos */
+    color: #2068A0;
+/*    border-style: solid;
+    border-color: white; 
+    border-width: 3px 0px;*/    
+    padding: 5px 10px;
+}
+
+.nav-main-li span.active, .nav-main-li span:hover{
+    border-top: 3px solid #38B5E6;
+    color: #38B5E6;
+}
+.dropdown:hover{
+  border-top: 3px solid #38B5E6;
+  color: #38B5E6;
+  padding-top: 5px;
+}
+
+@media screen and (max-width: 640px){ 
+    ul.nav-main-li,.dropdown-li{
+        position: absolute;
+        width: 530px;
+        right: -530px;
+        top: 95px;
+        transition: right .5s;        
+        padding: 20px 0 0;
+        background-color: white;
+        z-index: -1;
+    }
+    ul.nav-main-li.active{
+        box-shadow: 0 2px 2px 0 rgba(43,43,43,.4);
+        right: 0;
+    }
+    .dropdown-li, ul.nav-main-li li{
+        padding: 0 20px;
+        height: 30px;
+        display: flex;
+        justify-content: flex-end !important;
+    }
+    ul.nav-main-li li .active, .dropdown:hover, ul.nav-main-li span:hover{
+        border-top: none;
+        border-right: 3px solid #38B5E6;
+    }
+    
+}
